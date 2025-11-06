@@ -183,8 +183,8 @@ colorama>=0.4.4  # Colored terminal output
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/electricity-bill-prediction.git
-cd electricity-bill-prediction
+git clone https://github.com/brunomigueldasilva/energy-consumption-estimation.git
+cd energy-consumption-estimation
 ```
 
 2. **Create virtual environment** (recommended):
@@ -207,7 +207,7 @@ mkdir inputs
 ### Directory Structure
 
 ```
-electricity-bill-prediction/
+energy-consumption-estimation/
 │
 ├── inputs/                      # Place your CSV files here
 │   ├── leituras_unificadas.csv

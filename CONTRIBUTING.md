@@ -46,8 +46,8 @@ We are committed to providing a welcoming and inclusive environment for all cont
 1. Fork the repository on GitHub
 2. Clone your fork locally:
 ```bash
-git clone https://github.com/yourusername/electricity-bill-prediction.git
-cd electricity-bill-prediction
+git clone https://github.com/brunomigueldasilva/energy-consumption-estimation.git
+cd energy-consumption-estimation
 ```
 
 ---
